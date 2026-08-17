@@ -5,10 +5,8 @@ public:
     
     for( auto x : nums ){
         if(st.find(x) != st.end()){
-            return true;
+            return x;
 	    }
-            st.insert(x);
         }
-	        return false;
     }
 };
