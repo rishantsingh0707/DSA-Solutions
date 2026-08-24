@@ -2,7 +2,7 @@ class Solution {
 public:
     int removeElement(vector<int>& arr ,int target) {
 
-// reading the first element and comparing it with the target and if they are not equal then we will store the current element at the uniqueIndex and increment the uniqueIndex.
+        // reading the first element and comparing it with the target and if they are not equal then we will store the current element at the uniqueIndex and increment the uniqueIndex.
 
         int uniqueIndex = 0;
 
