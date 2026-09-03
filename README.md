@@ -29,12 +29,15 @@ I use this repository to:
 | 283  | [Move Zeroes](https://leetcode.com/problems/move-zeroes/)                                             | Easy       |
 | 1134 | [Armstrong Number](https://leetcode.com/problems/armstrong-number/)                                   | Easy       |
 | 7    | [Reverce Number](https://leetcode.com/problems/reverse-integer/)                                      | Medium     |
+| 26   | [Remove Duplicate](https://leetcode.com/problems/remove-duplicates-from-sorted-array)                 | Easy       |
 
 ## Topics Covered
 
 * Arrays
 * Hash Tables
 * Two Pointers
+* String
+* Dynamic Programming
 * Mathematics
 * Searching
 * Problem Solving
